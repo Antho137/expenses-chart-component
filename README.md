@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-"expensesChart.jpg"
+./expensesChart.jpg
 
 ### Links
 
