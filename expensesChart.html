@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="Bar Chart, balance, spending, days, month">
+        <meta name="description" content=" Expenses chart component that shows the individual week day's bar chart, which hover over it display the correct day's expending amounts.">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+        <title>Expenses Chart</title>
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <link rel="stylesheet" href="barchart.css">
+		<script src="jquery-3.4.1.min.js"></script>
+		<script src="bootstrap.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
+    </head>
+    <body>
+	    <div class="container-fluid">
+		    <div class="row"> 
+				<header id="myHead">
+                    <div class="balance">
+                        <h6>My balance</h6>
+                        <h1 id="balance">$921.48</h1>
+                    </div>
+                    <div id="logo">
+                        <img src="logo.svg" alt="logo" />
+                    </div>
+                </header>
+            </div>
+		    <div class="row"> 
+                <main id="main">
+                    <div>
+                        <h2>Spending - Last 7 days</h2>
+                        <p>Total of spending is : $<span id="lastweekspending"></span></p>
+                    </div>
+                    <div class="barchart">
+                        <canvas id="myChart" width="500px" height="300px"></canvas>
+                    </div>
+                    <div id="month">
+                        <div class="total">
+                            <p>Total this month</p>
+                            <p id="total">$478.33</p>
+                        </div>    		
+                        <div class="month">
+                            <p id="percent">+2.4%</p>
+                            <p>from last month</p>
+                        </div> 
+                    </div>
+                </main>
+                <footer>
+                    <p>Coded by <a href="www.github.com/Antho137">Antonio Sala</a> from Frontend Mentor challenge</p>
+                </footer>
+            </div>
+		</div>
+        <script src="barchart.js"></script>	
+    </body>
+</html>
