@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-../images/expensesChart.jpg
+"../images/expensesChart.jpg"
 
 ### Links
 
@@ -45,16 +45,16 @@ Users should be able to:
 
 ### What I learned
 
-The major learnings while working through this project was the use of Chart.js library. It was my first time, and to implement it accordly in the first was not easy. I was to change diferent versions up to get to the last one with which I finished the project. O course, this experience reinforces my own knowledge on how to consider the use of libraries to speed up some process while developing projects.
+The major learnings while working through this project was the use of Chart.js library. It was my first time, and to implement it accordly in the first was not easy. I was to change diferent versions up to get to the last one with which I finished the project. Of course, this experience reinforces my own knowledge on how to consider the use of libraries to speed up some process while developing projects.
 
 ### Continued development
 
-In the future projects, I would like to refine my knowledge with fetching and promises(JS). Also, I'll try to code with React.js which I am looking to be comfortable with.
+In the future projects, I would like to refine my knowledge with fetching and promises (JS). Also, I'll try to code with React.js which I am looking to be comfortable with.
 
 ### Useful resources
 
 - https://www.stackoverflow.com
-This site helped me to fix many issues I encoutered while looked for solutions. Even some time, I was to check others sites to find what I expected, but stackoverflow was the one I most consulted. So, I'd like to recommend it to anyone who looks for the way to resolve some coding issues. 
+This site helped me to fix many issues I encoutered while looked for solutions. Even some time, I was to check others sites to find what I expected, but stackoverflow was the one I most consulted. So, I'd like to recommend it to anyone who are looking for the ways to resolve some coding issues. 
 
 ## Author
 
