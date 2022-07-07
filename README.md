@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-./expensesChart.jpg
+"expenses-chart-component/expensesChart.jpg"
 
 ### Links
 
